@@ -7,8 +7,8 @@ import java.io.FileReader
 import java.io.PrintWriter
 
 class SpawnNotificationConfig {
-    val broadcastShiny = true
-    val broadcastCoords = true
+    val broadcastShiny = false
+    val broadcastCoords = false
     val broadcastBiome = false
     val playShinySound = true
     val playShinySoundPlayer = false
